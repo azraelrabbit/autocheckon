@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autoCheck", "autoCheck\autoCheck.csproj", "{72CC9A88-BC1E-4FC2-BB3E-9F85F97E0E63}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AutocheckIns", "AutocheckIns\AutocheckIns.vdproj", "{FDA66E9B-D58D-4844-8792-71E0E3645770}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,8 @@ Global
 		{72CC9A88-BC1E-4FC2-BB3E-9F85F97E0E63}.Debug|x86.Build.0 = Debug|x86
 		{72CC9A88-BC1E-4FC2-BB3E-9F85F97E0E63}.Release|x86.ActiveCfg = Release|x86
 		{72CC9A88-BC1E-4FC2-BB3E-9F85F97E0E63}.Release|x86.Build.0 = Release|x86
+		{FDA66E9B-D58D-4844-8792-71E0E3645770}.Debug|x86.ActiveCfg = Debug
+		{FDA66E9B-D58D-4844-8792-71E0E3645770}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
