@@ -1,0 +1,10 @@
+D:\works\Projects\TFSRoot\Project\autoCheck\autoCheck\bin\Release\autoCheck.exe.config
+D:\works\Projects\TFSRoot\Project\autoCheck\autoCheck\bin\Release\autoCheck.exe
+D:\works\Projects\TFSRoot\Project\autoCheck\autoCheck\bin\Release\autoCheck.pdb
+D:\works\Projects\TFSRoot\Project\autoCheck\autoCheck\obj\x86\Release\ResolveAssemblyReference.cache
+D:\works\Projects\TFSRoot\Project\autoCheck\autoCheck\obj\x86\Release\autoCheck.Properties.Resources.resources
+D:\works\Projects\TFSRoot\Project\autoCheck\autoCheck\obj\x86\Release\GenerateResource.read.1.tlog
+D:\works\Projects\TFSRoot\Project\autoCheck\autoCheck\obj\x86\Release\GenerateResource.write.1.tlog
+D:\works\Projects\TFSRoot\Project\autoCheck\autoCheck\obj\x86\Release\autoCheck.exe
+D:\works\Projects\TFSRoot\Project\autoCheck\autoCheck\obj\x86\Release\autoCheck.pdb
+D:\works\Projects\TFSRoot\Project\autoCheck\autoCheck\obj\x86\Release\autoCheck.AutoCheckOn.resources
