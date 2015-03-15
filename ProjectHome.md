@@ -1,0 +1,1 @@
+auto check on to job
